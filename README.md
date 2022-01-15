@@ -1,4 +1,4 @@
-# Welcome to Aceninja NFT
+# Welcome to NFT
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
