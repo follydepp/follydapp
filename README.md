@@ -1,4 +1,4 @@
-# Welcome to NFT
+# Welcome to Folly NFT
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -35,8 +35,8 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Bear Presale",
-  "SYMBOL": "BEAR",
+  "NFT_NAME": "Folly Presale",
+  "SYMBOL": "FOLLYA",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 60000000000000000,
   "DISPLAY_COST": 0.06,
@@ -71,7 +71,7 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>Nerdy Coder Clones</title>
+<title>Folly Apes</title>
 <meta name="description" content="Mint your NFT" />
 ```
 
